@@ -2,8 +2,7 @@
 
 ### 💻 Java Developer | Spring Boot | Software Engineer
 
-🎓 Computer Science Engineering Graduate — 2026  
-🚀 Incoming System Engineer at Tata Consultancy Services (TCS)
+🎓 Computer Science Engineering Graduate — 2026
 
 I’m a Computer Science Engineering graduate interested in building
 scalable backend applications, solving problems with Data Structures
