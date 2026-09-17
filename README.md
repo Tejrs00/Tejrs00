@@ -69,8 +69,8 @@ job requirements.
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Professional Email]
+- 💼 LinkedIn: https://www.linkedin.com/in/tejas-r-s/
+- 📧 Email: tejasshet0@gmail.com
 
 ---
 
