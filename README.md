@@ -1,10 +1,80 @@
-- 👋 Hi, I’m @Tejrs00
-- 👀 I’m interested in .creating innovativethings,designing, web developing, coding in java,c..
-- 🌱 I’m currently learning .web developmentand dsa in java script..
-- 💞️ I’m looking to collaborate on ..new web based projects.
-- 📫 How to reach me by whatsapp 6363670694...
-- 😄 Pronouns: .teju..
-- ⚡ Fun fact: talkative😄
+# Hi, I'm Tejas Rajesh Shet 👋
+
+### 💻 Java Developer | Spring Boot | Software Engineer
+
+🎓 Computer Science Engineering Graduate — 2026  
+🚀 Incoming System Engineer at Tata Consultancy Services (TCS)
+
+I’m a Computer Science Engineering graduate interested in building
+scalable backend applications, solving problems with Data Structures
+& Algorithms, and developing practical software solutions.
+
+My primary focus is **Java, Spring Boot, backend development, SQL,
+and software engineering**.
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Java
+- SQL
+- JavaScript
+- Python
+
+**Backend & Development**
+- Spring Boot
+- Spring Framework
+- REST APIs
+- JDBC
+- Hibernate / JPA
+
+**Frontend**
+- React.js
+- HTML
+- CSS
+- Bootstrap
+
+**Databases**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+
+### 🚀 Featured Projects
+
+🔹 **JSS Placement Portal**  
+Full-stack placement management platform designed for JSS Academy of
+Technical Education, with features for students, recruiters,
+administrators and placement management.
+
+🔹 **Expense Tracker**  
+Desktop-based expense management application developed using Java
+Swing, JDBC and MySQL.
+
+🔹 **Resume Matching Dashboard**  
+NLP-based application for analyzing resumes and matching them with
+job requirements.
+
+### 📚 Currently Focusing On
+
+- Core Java & Object-Oriented Programming
+- Spring Boot & REST API Development
+- Data Structures & Algorithms
+- SQL & Database Design
+- Backend Development
+- Software Engineering Best Practices
+
+### 🤝 Let's Connect
+
+- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [Your Professional Email]
+
+---
+
+⭐ Building. Learning. Improving.
 
 <!---
 Tejrs00/Tejrs00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
